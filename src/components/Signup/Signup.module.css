@@ -1,0 +1,30 @@
+.main{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: 1px solid black;
+    justify-content: center;
+display: flex;
+}
+.box{
+  
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+}
+
+.button{
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+}
+
+.button:hover{
+    background-color: white;
+    color: black;
+}

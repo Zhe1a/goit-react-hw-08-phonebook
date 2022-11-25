@@ -1,0 +1,13 @@
+.titel {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    text-align: center;
+    align-items: center;
+        justify-content: center;
+}
+.link{
+    margin-right: 15px;
+}

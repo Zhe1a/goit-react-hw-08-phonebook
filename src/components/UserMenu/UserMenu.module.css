@@ -1,0 +1,29 @@
+.header{
+    background-color: rgb(151, 149, 149);
+    padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 15px;
+padding-right: 15px;
+display: flex;
+}
+
+.title{
+margin: 0;
+padding: 0;
+}
+.button{
+    background-color: black;
+    color: rgb(255, 255, 255);
+width: 150px;
+height: 35px;
+margin-left: auto;
+}
+
+.button:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.box{
+
+}
